@@ -40,4 +40,3 @@ because of pass by reference.
 //console.log(obj.age);
 //obj.age++;
 //console.log(obj.age);
-
