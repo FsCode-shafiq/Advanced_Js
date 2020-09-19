@@ -35,7 +35,7 @@ var b = 6;
 
 (a<b)
     ?(a===3) 
-        ?console.log("A"):
-        console.log("A.A"):
-    console.log("Failed");
+        ?console.log("NESTED IF RUNNING"):
+        console.log("NESTED ELSE RUNNING"):
+    console.log("PARENT ELSE RUNNING");
 */
