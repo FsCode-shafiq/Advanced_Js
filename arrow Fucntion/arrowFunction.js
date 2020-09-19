@@ -37,11 +37,11 @@ const eS_6 = myName => console.log(`my name is ${myName}`)
 
 eS_6("wassay");
 
-
+/*
 const eS_6_2 = (myName,lastName) => console.log(`my name is ${myName} ${lastName}`)
 
 eS_6_2("abdul","wassay");
 
 const multiply = (a,b) => console.log("RESULT:", a*b);
 
-multiply(5,50);
+multiply(5,50);*/
