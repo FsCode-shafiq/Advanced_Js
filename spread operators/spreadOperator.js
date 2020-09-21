@@ -45,11 +45,11 @@ let obj1 = {
 
 // console.log('object 2 ====> ',obj2);
 
-const obj2 = {
-    ...obj1,
-    adress: {
-        ...obj1.adress,
-        place1: 'Islamabad'
-    }
-}
-console.log('object :>> ', obj2);
+// const obj2 = {
+//     ...obj1,
+//     adress: {
+//         ...obj1.adress,
+//         place1: 'Islamabad'
+//     }
+// }
+// console.log('object :>> ', obj2);
