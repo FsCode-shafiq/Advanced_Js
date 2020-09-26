@@ -37,9 +37,22 @@
 // *** Object Dot Assign ***
 
 
-let dotAssignObj = Object.assign({},obj1,obj2);
+//let dotAssignObj = Object.assign({},obj1,obj2);
 
-obj1.firstName = 'muhammad';
+//obj1.firstName = 'muhammad';
+
+// console.log(obj1);
+
+// console.log(dotAssignObj);
+
+
+// *** During Assign change value ****
+let dotAssignObj = Object.assign({},{
+    ...obj1,
+    firstName:'muhammad'
+
+}
+,obj2);
 
 console.log(obj1);
 
