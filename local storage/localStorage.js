@@ -6,11 +6,11 @@
  */
 
 
-// //yahan pr local storage me hum key aur ouski value store krwai hai.
-// localStorage.setItem('fname','abdul');
-// localStorage.setItem('lname','wassay');
+//yahan pr local storage me hum key aur ouski value store krwai hai.
+localStorage.setItem('fname','abdul');
+localStorage.setItem('lname','wassay');
 
-// // getting value from local storage.
+// getting value from local storage.
 
 // const firstName = localStorage.getItem('fname');
 // const lastName = localStorage.getItem('lname');
@@ -26,8 +26,8 @@
 
 // localStorage.clear()
 
-//  TASK NO-1
- // to store hole object in local storage.
+// //  TASK NO-1
+// //  to store hole object in local storage.
 // const obj = {
 //     name: "shafiq",
 //     agr: 20
