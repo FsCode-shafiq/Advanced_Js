@@ -21,6 +21,15 @@ const items = [
 
 // *** ES-6 map()
 
-let myArray = items.map((element) => element.name); // annoymous function => (element) => element.name
+// let myArray = items.map((element) => element.name); // annoymous function => (element) => element.name
 
-console.log(myArray);
+// console.log(myArray);
+
+
+// map with ES-5 function
+
+// let myArray = items.map(function(element) {
+//     return element.name;
+// })
+
+// console.log(myArray);
