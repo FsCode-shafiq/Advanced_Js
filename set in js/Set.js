@@ -13,5 +13,12 @@ const newSet = new Set();
 newSet.add("shafiq");
 newSet.add("shafiq");
 newSet.add("shafiq");
+newSet.add("wassay");
+newSet.add("ziyan");
 
+newSet.delete("ziyan");
 console.log(newSet);
+
+for (i of newSet) {
+    console.log(i);
+}
