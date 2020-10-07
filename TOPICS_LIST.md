@@ -1,8 +1,9 @@
 # Advanced_JavaScript v: ES-6
 
-NOTE: -->> follow topic list sequence <<--
+# NOTE:
+    -->> follow topic list sequence <<--
 
-TOPICS:
+# TOPICS:
 
 01: Let And Var Concept  
 02: Const Concept  
