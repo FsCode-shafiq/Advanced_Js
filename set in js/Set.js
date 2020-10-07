@@ -6,7 +6,7 @@ let arr = [1, 2, 2, 3, 4, 5, 6];
 
 const setArr = new Set(arr);
 
-console.log(setArr)
+console.log(setArr);
 
 const newSet = new Set();
 
