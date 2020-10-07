@@ -4,7 +4,7 @@ NOTE: -->> follow topic list sequence <<--
 
 TOPICS:
 
-01: Let And Var Concept
+01: Let And Var Concept  
 02: Const Concept
 03: Template Literal Concept
 04: Destructuring Concept
