@@ -8,4 +8,4 @@ let msg2 = (gender === 'femal') || "short circuit msg2";
 
 
 console.log(msg);
-console.log(msg2)
+console.log(msg2);
