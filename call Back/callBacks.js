@@ -1,3 +1,10 @@
+/*
+A JavaScript Callback Function is a function that is passed as a parameter to another JavaScript function,
+ and the callback function is run inside of the function it was passed into.
+  JavaScript Callback Functions can be used synchronously or asynchronously
+ */
+
+
 const post = [
     { title: "Post 1" },
     { title: "Post 2" }
