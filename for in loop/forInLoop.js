@@ -3,11 +3,11 @@
  * FOOR IN LOOP array me ouska index return krta hai,
  */
 
- const obj = {
-     firstName: 'abdul',
-     lastName: 'wassay'
- }
- // normal loop bhi object pr kaam nai krta
+const obj = {
+        firstName: 'abdul',
+        lastName: 'wassay'
+    }
+    // normal loop bhi object pr kaam nai krta
 
 //  for (let i  = 0 ; i < obj.length; i++)
 //  {
@@ -18,15 +18,13 @@
 
 // GET KEY
 
-// for(const key in obj)
-// {
+// for (const key in obj) {
 //     console.log(key);
 // }
 
- // GET VALUE BY KEY
+// GET VALUE BY KEY
 
-// for(const key in obj)
-// {
+// for (const key in obj) {
 //     console.log(obj[key]);
 // }
 
