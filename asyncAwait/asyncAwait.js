@@ -14,7 +14,7 @@ const userInfo = async() => {
                                 userDataArray.push(element[key]);
                             }
                         }
-                        tableRow = `<tr>${userDataArray.map((fillData)=> `<td>${fillData}</td>`)}</tr>`;
+                        tableRow = `<tr class="tabrow">${userDataArray.map((fillData)=> `<td class="tabele">${fillData}</td>`)}</tr>`;
                         document.getElementById("tb").innerHTML += tableRow; 
         });
 
