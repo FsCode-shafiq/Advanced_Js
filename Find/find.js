@@ -1,6 +1,6 @@
 /**
  * find exact value ko return krta hai lekin yae srf first value ko hi reutrn krta hai,
- * ousky bd yar exit ho jata hai 
+ * ousky bd yae exit ho jata hai 
  */
 const items = [{
         name: 'kurkurey',

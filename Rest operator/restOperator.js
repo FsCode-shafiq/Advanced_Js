@@ -3,7 +3,6 @@
  * aur baqi ki value humen kisi variable me store krwani ho tu
  */
 
-const { lightcoral } = require("color-name")
 
  let obj = {
      firstName: 'shafiq',

@@ -54,7 +54,15 @@ let dotAssignObj = Object.assign({},{
 }
 ,obj2);
 
-console.log(obj1);
 
-console.log(dotAssignObj);
+// console.log("Spread: ",spreadObj);
+// console.log(obj1);
+
+// console.log(dotAssignObj);
+
+let obj$ = Object.assign({...obj1,
+
+firstName: 'shafiq'}, obj2);
+
+console.log(obj$);
 
