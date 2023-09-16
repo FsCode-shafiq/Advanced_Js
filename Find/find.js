@@ -20,8 +20,8 @@ const items = [{
     },
 ];
 
-const myArray = items.find((element) => {
+const array = items.find((element) => {
     return element.price <= 50;
 })
 
-console.log(myArray)
+console.log(array)
